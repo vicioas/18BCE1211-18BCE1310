@@ -1,0 +1,3 @@
+An Internet Event Management Java Application 
+18BCE1211 and 18BCE1310
+Ninad Sabnis and Vivek Gorania
